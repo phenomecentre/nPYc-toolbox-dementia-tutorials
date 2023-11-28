@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.1
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= bjimenez
+$$ 2016-01-25 14:23:26.024 +0000  IC\bjimenez@wscc-bjimenez
+$$ \\biomolmed1.med.ic.ac.uk\Data_Archives2\ALZ\Urine/ALZ_Urine_Rack01_RCM_221214/10/pdata/3/outd
+$$ process C:\Bruker\TopSpin3.1\prog\mod\dirdata.exe
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

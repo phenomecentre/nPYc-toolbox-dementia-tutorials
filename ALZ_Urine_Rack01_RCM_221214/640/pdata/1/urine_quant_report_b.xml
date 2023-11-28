@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RESULTS version="Quant-UR B.1.1.0  Reseach Use Only">
+   <SAMPLE date="24-Dec-2014 05:12:47" name="ALZ_Urine_Rack01_RCM_221214_expno640.100000.10r" project="" type="urine"/>
+   <CLASSIFICATION/>
+   <VERIFICATION/>
+   <QUANTIFICATION version="Quant-UR B.1.1.0  Reseach Use Only">
+      <PARAMETER name="Creatinine" type="quantification">
+         <VALUE conc="17.0" concUnit="mmol/L" lod="0.3" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <RELDATA errConc="0.255" errConcUnit="mmol/L" rawConc="17.25" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/L" vmax="19" vmin="1"/>
+      </PARAMETER>
+      <PARAMETER name="Dimethylamine" type="quantification">
+         <VALUE conc="0.54" concUnit="mmol/L" lod="0.527" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="31" concUnit="mmol/mol Crea" lod="31" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.017" errConcUnit="mmol/L" rawConc="0.543" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="54" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Trimethylamine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.007" errConcUnit="mmol/L" rawConc="0.002" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="3" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="1-Methylhistidine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.255" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="15" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.101" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="15" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="2-Furoylglycine" type="quantification">
+         <VALUE conc="0.95" concUnit="mmol/L" lod="0.663" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="55" concUnit="mmol/mol Crea" lod="39" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.143" errConcUnit="mmol/L" rawConc="0.951" rawConcUnit="mmol/L" sigCorr="96" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="40" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="4-Aminobutyric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.340" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="20" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.514" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="20" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Alanine" type="quantification">
+         <VALUE conc="0.28" concUnit="mmol/L" lod="0.170" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="16" concUnit="mmol/mol Crea" lod="10" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.043" errConcUnit="mmol/L" rawConc="0.279" rawConcUnit="mmol/L" sigCorr="99" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="72" vmin="11"/>
+      </PARAMETER>
+      <PARAMETER name="Arginine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="12.750" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="750" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="1.230" errConcUnit="mmol/L" rawConc="0.914" rawConcUnit="mmol/L" sigCorr="45" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="750" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Betaine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.119" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="7" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.027" errConcUnit="mmol/L" rawConc="0.057" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="78" vmin="9"/>
+      </PARAMETER>
+      <PARAMETER name="Creatine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.850" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="50" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.255" errConcUnit="mmol/L" rawConc="0.085" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="280" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Glycine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.578" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="34" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.047" errConcUnit="mmol/L" rawConc="0.486" rawConcUnit="mmol/L" sigCorr="99" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="440" vmin="38"/>
+      </PARAMETER>
+      <PARAMETER name="Guanidinoacetic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="1.700" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="100" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.327" errConcUnit="mmol/L" rawConc="0.436" rawConcUnit="mmol/L" sigCorr="77" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="140" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Methionine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.306" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="18" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.026" errConcUnit="mmol/L" rawConc="0.015" rawConcUnit="mmol/L" sigCorr="94" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="18" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="N,N-Dimethylglycine" type="quantification">
+         <VALUE conc="0.10" concUnit="mmol/L" lod="0.085" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="6" concUnit="mmol/mol Crea" lod="5" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.014" errConcUnit="mmol/L" rawConc="0.095" rawConcUnit="mmol/L" sigCorr="97" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="15" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Sarcosine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.017" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="7" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Taurine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="2.380" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="140" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.316" errConcUnit="mmol/L" rawConc="0.375" rawConcUnit="mmol/L" sigCorr="41" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="170" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Valine" type="quantification">
+         <VALUE conc="0.04" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="2" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.006" errConcUnit="mmol/L" rawConc="0.035" rawConcUnit="mmol/L" sigCorr="98" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="7" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Benzoic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.170" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="10" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.017" errConcUnit="mmol/L" rawConc="0.004" rawConcUnit="mmol/L" sigCorr="68" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="10" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Mandelic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.182" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="17" vmin="2"/>
+      </PARAMETER>
+      <PARAMETER name="Hippuric acid" type="quantification">
+         <VALUE conc="7.6" concUnit="mmol/L" lod="2.890" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="440" concUnit="mmol/mol Crea" lod="170" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.822" errConcUnit="mmol/L" rawConc="7.578" rawConcUnit="mmol/L" sigCorr="99" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="660" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Acetic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.085" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="5" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.019" errConcUnit="mmol/L" rawConc="0.065" rawConcUnit="mmol/L" sigCorr="95" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="51" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Citric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.680" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="40" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.510" errConcUnit="mmol/L" rawConc="0.543" rawConcUnit="mmol/L" sigCorr="75" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="700" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Formic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.170" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="10" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.005" errConcUnit="mmol/L" rawConc="0.037" rawConcUnit="mmol/L" sigCorr="98" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="43" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Fumaric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.006" errConcUnit="mmol/L" rawConc="0.017" rawConcUnit="mmol/L" sigCorr="78" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="3" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Imidazole" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.816" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="48" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.296" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="48" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Lactic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.833" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="49" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.104" errConcUnit="mmol/L" rawConc="0.300" rawConcUnit="mmol/L" sigCorr="82" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="110" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Proline betaine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.425" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="25" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.111" errConcUnit="mmol/L" rawConc="0.118" rawConcUnit="mmol/L" sigCorr="12" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="280" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Succinic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.085" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="5" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.012" errConcUnit="mmol/L" rawConc="0.079" rawConcUnit="mmol/L" sigCorr="97" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="39" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Tartaric acid" type="quantification">
+         <VALUE conc="0.29" concUnit="mmol/L" lod="0.085" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="17" concUnit="mmol/mol Crea" lod="5" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.019" errConcUnit="mmol/L" rawConc="0.289" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="110" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Trigonelline" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.595" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="35" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.007" errConcUnit="mmol/L" rawConc="0.313" rawConcUnit="mmol/L" sigCorr="100" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="67" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="2-Methylsuccinic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.816" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="48" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.383" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="48" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="2-Oxoglutaric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="1.564" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="92" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.206" errConcUnit="mmol/L" rawConc="0.121" rawConcUnit="mmol/L" sigCorr="27" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="92" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="3-Hydroxybutyric acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="1.700" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="100" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="1.447" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="100" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Acetoacetic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.238" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="14" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.081" errConcUnit="mmol/L" rawConc="0.138" rawConcUnit="mmol/L" sigCorr="69" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="30" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Acetone" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.034" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="2" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.005" errConcUnit="mmol/L" rawConc="0.018" rawConcUnit="mmol/L" sigCorr="95" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="7" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Oxaloacetic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.289" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="17" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.067" errConcUnit="mmol/L" rawConc="0.123" rawConcUnit="mmol/L" sigCorr="94" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="66" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Pyruvic acid" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.153" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="9" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.054" errConcUnit="mmol/L" rawConc="0.087" rawConcUnit="mmol/L" sigCorr="71" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="13" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="1-Methyladenosine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.085" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="5" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.226" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="5" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="1-Methylnicotinamide" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.544" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="32" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.010" errConcUnit="mmol/L" rawConc="0.073" rawConcUnit="mmol/L" sigCorr="98" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="32" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Adenosine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="6.630" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="390" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="2.809" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="390" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Allantoin" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.289" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="17" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.040" errConcUnit="mmol/L" rawConc="0.162" rawConcUnit="mmol/L" sigCorr="91" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="47" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Allopurinol" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.170" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="10" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.099" errConcUnit="mmol/L" rawConc="0.097" rawConcUnit="mmol/L" sigCorr="76" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="11" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Caffeine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.765" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="45" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.329" errConcUnit="mmol/L" rawConc="0.335" rawConcUnit="mmol/L" sigCorr="98" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="61" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Inosine" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.323" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="19" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.111" errConcUnit="mmol/L" rawConc="0.063" rawConcUnit="mmol/L" sigCorr="58" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="19" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Galactose" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.731" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="43" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.011" errConcUnit="mmol/L" rawConc="0.079" rawConcUnit="mmol/L" sigCorr="68" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="44" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Glucose" type="quantification">
+         <VALUE conc="0.58" concUnit="mmol/L" lod="0.578" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="34" concUnit="mmol/mol Crea" lod="34" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.153" errConcUnit="mmol/L" rawConc="0.581" rawConcUnit="mmol/L" sigCorr="91" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="140" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Lactose" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="1.632" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="96" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.128" errConcUnit="mmol/L" rawConc="0.255" rawConcUnit="mmol/L" sigCorr="91" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="96" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Mannitol" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="3.060" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="180" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="5.622" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="180" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="D-Mannose" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="0.102" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="6" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="0.134" errConcUnit="mmol/L" rawConc="0.000" rawConcUnit="mmol/L" sigCorr="0" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="8" vmin="-"/>
+      </PARAMETER>
+      <PARAMETER name="Myo-Inositol" type="quantification">
+         <VALUE conc="0" concUnit="mmol/L" lod="74.800" lodUnit="mmol/L" loq="-" loqUnit="mmol/L"/>
+         <VALUERELATIVE conc="0" concUnit="mmol/mol Crea" lod="4400" lodUnit="mmol/mol Crea" loq="-" loqUnit="mmol/mol Crea"/>
+         <RELDATA errConc="10.26" errConcUnit="mmol/L" rawConc="0.204" rawConcUnit="mmol/L" sigCorr="22" sigCorrUnit="%"/>
+         <REFERENCE source="NMR Database" unit="mmol/mol Crea" vmax="4400" vmin="-"/>
+      </PARAMETER>
+   </QUANTIFICATION>
+</RESULTS>

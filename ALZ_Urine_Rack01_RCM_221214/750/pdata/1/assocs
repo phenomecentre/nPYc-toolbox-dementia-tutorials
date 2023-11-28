@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= Echekmen
+$$ 2020-02-17 13:18:24.456 -0000  IC\Echekmen@wssb-echekmen
+$$ //rds.imperial.ac.uk/RDS/user/echekmen/projects/npc-alzheimer/live/Study Data/Analytical/Raw/NMR_Urine/ALZ_Urine_Rack01_RCM_221214/750/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.6\prog\mod\dataserver.exe
+##$MULTDISP= <//rds.imperial.ac.uk/RDS/user/echekmen/projects/npc-alzheimer/live/Study Data/Analytical/Raw/NMR_Urine/ALZ_Urine_Rack06_RCM_05012015/590/pdata/1|//rds.imperial.ac.uk/RDS/user/echekmen/projects/npc-alzheimer/live/Study Data/Analytical/Raw/NMR_Urine/ALZ_Urine_Rack07_RCM_181214/490/pdata/1>
+##END=

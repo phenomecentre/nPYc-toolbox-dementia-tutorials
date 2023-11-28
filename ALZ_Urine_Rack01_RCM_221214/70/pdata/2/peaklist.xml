@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2014-12-23T14:21:18.049+00:00" expNo="70" name="ALZ_Urine_Rack01_RCM_221214" owner="" procNo="2" source="C:/Bruker/TopSpin3.2.3/data/nmrsu/nmr">
+      <PeakPickDetails>F1=0.278ppm, F2=-0.150ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-0.0000" intensity="1.000000e+002" type="0"/>
+  </PeakList1D>
+</PeakList>

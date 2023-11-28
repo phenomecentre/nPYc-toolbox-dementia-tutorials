@@ -1,0 +1,28 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Bruker/TopSpin3.2.3/data/nmrsu/nmr/ALZ_Urine_Rack01_RCM_221214/460/pdata/2/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2014-12-24 00:47:45.289 +0000>,<nmrsu>,<npc-nmr-01>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2014-12-24 00:43:36.375 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       95 69 1F B9 9F 5E 0D 93 73 4C 53 AD 74 86 E8 F4
+       data hash MD5: 64K
+       52 21 D8 DC 0A B1 25 AF F7 10 D7 1D DC CB 65 A9>)
+(   2,<2014-12-24 00:47:46.069 +0000>,<nmrsu>,<npc-nmr-01>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 64K
+       52 21 D8 DC 0A B1 25 AF F7 10 D7 1D DC CB 65 A9>)
+(   3,<2015-01-05 08:50:23.566 +0000>,<nmrsu>,<npc-nmr-01>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       efp LB = 0 FT_mod = 6 PKNL = 1 PHC0 = 219.798 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       1B 2B 3D 04 17 3C C8 DF 64 3B 65 C7 2B 87 A8 D1>)
+##END=
+
+$$ hash MD5
+$$ 2F E6 7D 1F B3 62 C5 47 C4 08 51 9E C6 9E 95 64

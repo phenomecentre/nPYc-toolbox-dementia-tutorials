@@ -1,0 +1,71 @@
+<Quant_Factor_Sample>
+    <Eretic_Methods>
+        <Eretic method="Urine">
+            <Eretic_Sample>QuantRefC</Eretic_Sample>
+            <Artificial_Eretic_Position>12</Artificial_Eretic_Position>
+            <Artificial_Eretic_Line_Width>0.75</Artificial_Eretic_Line_Width>
+            <Artificial_Eretic_Concentration>10</Artificial_Eretic_Concentration>
+            <Parameter_Set>QUANTREF600C_300K</Parameter_Set>
+            <Magnetic_Field>600</Magnetic_Field>
+            <Eretic_Calibration>
+                <Eretic_Calibration_Start>2014/9/15 15:23:12</Eretic_Calibration_Start>
+                <Eretic_Calibration_End/>
+                <Eretic_Sample_Tube ID="QuantRefC-50WD-00020"/>
+                <Eretic_Factor>2610.54559212</Eretic_Factor>
+                <Max_Deviation_Compound>0.0</Max_Deviation_Compound>
+                <Experiment_Description>
+                    <Instrument>npc-nmr-01</Instrument>
+                    <Probehead>5 mm PABBI 1H/D-BB Z-GRD Z814601/0070</Probehead>
+                    <Temperature/>
+                    <Temperature_min>300.1005</Temperature_min>
+                    <Temperature_max>300.5005</Temperature_max>
+                    <Solvent>Urine</Solvent>
+                    <Pulprog>noesygppr1d</Pulprog>
+                    <SWH>12019.23</SWH>
+                    <Dataset>C:\NMRData\data\References\nmr\QuantRefC-50WD-00020-300K-2014-09-15-15-13\10\pdata\1\1r</Dataset>
+                    <Durations>
+                        <D1>4</D1>
+                        <D8>0.01</D8>
+                    </Durations>
+                    <Powerlevel>
+                        <PLDB1>-11.23852</PLDB1>
+                        <PLDB9>47.93363</PLDB9>
+                    </Powerlevel>
+                    <Preset_RF>25.0</Preset_RF>
+                    <Pulses>
+                        <P1>11</P1>
+                    </Pulses>
+                    <NS>32</NS>
+                    <DS>4</DS>
+                    <TD>65536</TD>
+                    <SI>131072</SI>
+                    <RG>84.66</RG>
+                </Experiment_Description>
+            </Eretic_Calibration>
+        </Eretic>
+        <Application Name="UrineScreening">
+            <Application_Parameter>
+                <Eretic_Factor>2445.99672175</Eretic_Factor>
+                <Experiment_Description>
+                    <Instrument>npc-nmr-01</Instrument>
+                    <Temperature>300.3002</Temperature>
+                    <Solvent>Urine</Solvent>
+                    <Pulprog>noesygppr1d</Pulprog>
+                    <Dataset>C:\Bruker\TopSpin3.2.3\data\nmrsu\nmr\ALZ_Urine_Rack01_RCM_221214\70\pdata\1\1r</Dataset>
+                    <Powerlevel>
+                        <PLDB1>-11.23852</PLDB1>
+                        <PLDB9>47.36812</PLDB9>
+                    </Powerlevel>
+                    <Pulses>
+                        <P1>11.74</P1>
+                    </Pulses>
+                    <NS>32</NS>
+                    <DS>4</DS>
+                    <TD>65536</TD>
+                    <SI>131072</SI>
+                    <RG>84.66</RG>
+                </Experiment_Description>
+            </Application_Parameter>
+        </Application>
+    </Eretic_Methods>
+</Quant_Factor_Sample>
