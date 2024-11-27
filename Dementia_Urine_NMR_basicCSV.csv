@@ -1,95 +1,95 @@
-Sample ID,Sample File Name,AssayRole,SampleType,Dilution,Include Sample,Age,Gender
-LND.0063_U,ALZ_Urine_Rack01_RCM_221214/10,Assay,Study Sample,100,TRUE,82,Female
-DCR00076_U,ALZ_Urine_Rack01_RCM_221214/20,Assay,Study Sample,100,TRUE,74,Male
-KPOA0004_U,ALZ_Urine_Rack01_RCM_221214/30,Assay,Study Sample,100,TRUE,67,Female
-KPOC0007_U,ALZ_Urine_Rack01_RCM_221214/40,Assay,Study Sample,100,TRUE,79,Female
-DCR00265_U,ALZ_Urine_Rack01_RCM_221214/50,Assay,Study Sample,100,TRUE,88,Female
-KPOA0049_U,ALZ_Urine_Rack01_RCM_221214/60,Assay,Study Sample,100,TRUE,85,Male
-PRGM0027_U,ALZ_Urine_Rack01_RCM_221214/70,Assay,Study Sample,100,TRUE,83,Female
-KPOA0011_U,ALZ_Urine_Rack01_RCM_221214/80,Assay,Study Sample,100,TRUE,82,Male
-PRGM0042_U,ALZ_Urine_Rack01_RCM_221214/90,Assay,Study Sample,100,TRUE,77,Male
-LDZM0019_U,ALZ_Urine_Rack01_RCM_221214/100,Assay,Study Sample,100,TRUE,69,Female
-KPOA0034_U,ALZ_Urine_Rack01_RCM_221214/110,Assay,Study Sample,100,TRUE,79,Male
-DCR00157_U,ALZ_Urine_Rack01_RCM_221214/120,Assay,Study Sample,100,TRUE,86,Male
-OA0479_U,ALZ_Urine_Rack01_RCM_221214/130,Assay,Study Sample,100,TRUE,86,Female
-PRGC0045_U,ALZ_Urine_Rack01_RCM_221214/140,Assay,Study Sample,100,TRUE,69,Male
-THSA0017_U,ALZ_Urine_Rack01_RCM_221214/150,Assay,Study Sample,100,TRUE,67,Male
-DCR00220_U,ALZ_Urine_Rack01_RCM_221214/160,Assay,Study Sample,100,TRUE,84,Male
-PRGA0005_U,ALZ_Urine_Rack01_RCM_221214/170,Assay,Study Sample,100,TRUE,77,Male
-PRGC0024_U,ALZ_Urine_Rack01_RCM_221214/180,Assay,Study Sample,100,TRUE,77,Male
-PRGM0005_U,ALZ_Urine_Rack01_RCM_221214/190,Assay,Study Sample,100,TRUE,77,Female
-THSA0013_U,ALZ_Urine_Rack01_RCM_221214/200,Assay,Study Sample,100,TRUE,78,Male
-LND.0099_U,ALZ_Urine_Rack01_RCM_221214/210,Assay,Study Sample,100,TRUE,75,Female
-DCR00051_U,ALZ_Urine_Rack01_RCM_221214/220,Assay,Study Sample,100,TRUE,70,Female
-THSM0058_U,ALZ_Urine_Rack01_RCM_221214/230,Assay,Study Sample,100,TRUE,70,Male
-PRGM0026_U,ALZ_Urine_Rack01_RCM_221214/240,Assay,Study Sample,100,TRUE,80,Male
-KPOM0041_U,ALZ_Urine_Rack01_RCM_221214/250,Assay,Study Sample,100,TRUE,76,Male
-THSM0028_U,ALZ_Urine_Rack01_RCM_221214/260,Assay,Study Sample,100,TRUE,69,Female
-LND.0130_U,ALZ_Urine_Rack01_RCM_221214/270,Assay,Study Sample,100,TRUE,74,Male
-LDZA0014_U,ALZ_Urine_Rack01_RCM_221214/280,Assay,Study Sample,100,TRUE,71,Female
-PRGA0019_U,ALZ_Urine_Rack01_RCM_221214/290,Assay,Study Sample,100,TRUE,83,Female
-THSA0010_U,ALZ_Urine_Rack01_RCM_221214/300,Assay,Study Sample,100,TRUE,76,Male
-Long-Term Reference 01,ALZ_Urine_Rack01_RCM_221214/310,Precision Reference,External Reference,100,TRUE,,
-Study Reference 01,ALZ_Urine_Rack01_RCM_221214/320,Precision Reference,Study Pool,100,TRUE,,
-TLSA0506_U,ALZ_Urine_Rack01_RCM_221214/330,Assay,Study Sample,100,TRUE,80,Male
-KPOA0027_U,ALZ_Urine_Rack01_RCM_221214/340,Assay,Study Sample,100,TRUE,74,Male
-TLSC0719_U,ALZ_Urine_Rack01_RCM_221214/350,Assay,Study Sample,100,TRUE,72,Male
-DCR00013_U,ALZ_Urine_Rack01_RCM_221214/360,Assay,Study Sample,100,TRUE,82,Male
-DCR00254_U,ALZ_Urine_Rack01_RCM_221214/370,Assay,Study Sample,100,TRUE,75,Female
-KPOA0018_U,ALZ_Urine_Rack01_RCM_221214/380,Assay,Study Sample,100,TRUE,73,Female
-DCR00211_U,ALZ_Urine_Rack01_RCM_221214/390,Assay,Study Sample,100,TRUE,73,Female
-KPOA0032_U,ALZ_Urine_Rack01_RCM_221214/400,Assay,Study Sample,100,TRUE,77,Female
-LND.0129_U,ALZ_Urine_Rack01_RCM_221214/410,Assay,Study Sample,100,TRUE,78,Female
-THSM0013_U,ALZ_Urine_Rack01_RCM_221214/420,Assay,Study Sample,100,TRUE,80,Female
-DCR00055_U,ALZ_Urine_Rack01_RCM_221214/430,Assay,Study Sample,100,TRUE,81,Female
-DCR00341_U,ALZ_Urine_Rack01_RCM_221214/440,Assay,Study Sample,100,TRUE,73,Female
-THSA0048_U,ALZ_Urine_Rack01_RCM_221214/450,Assay,Study Sample,100,TRUE,71,Male
-LND.0037_U,ALZ_Urine_Rack01_RCM_221214/460,Assay,Study Sample,100,TRUE,82,Male
-DCR00288_U,ALZ_Urine_Rack01_RCM_221214/470,Assay,Study Sample,100,TRUE,76,Male
-LND.0142_U,ALZ_Urine_Rack01_RCM_221214/480,Assay,Study Sample,100,TRUE,76,Female
-KPOM0003_U,ALZ_Urine_Rack01_RCM_221214/490,Assay,Study Sample,100,TRUE,76,Female
-LND.0092_U,ALZ_Urine_Rack01_RCM_221214/500,Assay,Study Sample,100,TRUE,79,Female
-DCR00162_U,ALZ_Urine_Rack01_RCM_221214/510,Assay,Study Sample,100,TRUE,72,Male
-LND.0034_U,ALZ_Urine_Rack01_RCM_221214/520,Assay,Study Sample,100,TRUE,68,Female
-PRGC0053_U,ALZ_Urine_Rack01_RCM_221214/530,Assay,Study Sample,100,TRUE,76,Female
-DCR00223_U,ALZ_Urine_Rack01_RCM_221214/540,Assay,Study Sample,100,TRUE,84,Female
-KPOM0031_U,ALZ_Urine_Rack01_RCM_221214/550,Assay,Study Sample,100,TRUE,82,Female
-THSA0045_U,ALZ_Urine_Rack01_RCM_221214/560,Assay,Study Sample,100,TRUE,78,Female
-PRGC0032_U,ALZ_Urine_Rack01_RCM_221214/570,Assay,Study Sample,100,TRUE,73,Male
-KPOC0014_U,ALZ_Urine_Rack01_RCM_221214/580,Assay,Study Sample,100,TRUE,74,Female
-DCR00087_U,ALZ_Urine_Rack01_RCM_221214/590,Assay,Study Sample,100,TRUE,76,Male
-LDZA0021_U,ALZ_Urine_Rack01_RCM_221214/600,Assay,Study Sample,100,TRUE,78,Female
-THSM0004_U,ALZ_Urine_Rack01_RCM_221214/610,Assay,Study Sample,100,TRUE,75,Female
-DCR00117_U,ALZ_Urine_Rack01_RCM_221214/620,Assay,Study Sample,100,TRUE,81,Male
-DCR00071_U,ALZ_Urine_Rack01_RCM_221214/630,Assay,Study Sample,100,TRUE,83,Male
-PRGA0034_U,ALZ_Urine_Rack01_RCM_221214/640,Assay,Study Sample,100,TRUE,80,Male
-THSA0054_U,ALZ_Urine_Rack01_RCM_221214/650,Assay,Study Sample,100,TRUE,66,Male
-KPOM0026_U,ALZ_Urine_Rack01_RCM_221214/660,Assay,Study Sample,100,TRUE,80,Female
-DCR00069_U,ALZ_Urine_Rack01_RCM_221214/670,Assay,Study Sample,100,TRUE,79,Male
-KPOA0037_U,ALZ_Urine_Rack01_RCM_221214/680,Assay,Study Sample,100,TRUE,79,Male
-THSA0049_U,ALZ_Urine_Rack01_RCM_221214/690,Assay,Study Sample,100,TRUE,73,Male
-PRGM0010_U,ALZ_Urine_Rack01_RCM_221214/700,Assay,Study Sample,100,TRUE,83,Male
-LND.0143_U,ALZ_Urine_Rack01_RCM_221214/710,Assay,Study Sample,100,TRUE,74,Male
-KPOM0040_U,ALZ_Urine_Rack01_RCM_221214/720,Assay,Study Sample,100,TRUE,81,Female
-Long-Term Reference 02,ALZ_Urine_Rack01_RCM_221214/730,Precision Reference,External Reference,100,TRUE,,
-Study Reference 02,ALZ_Urine_Rack01_RCM_221214/740,Precision Reference,Study Pool,100,TRUE,,
-LDZA0022_U,ALZ_Urine_Rack01_RCM_221214/750,Assay,Study Sample,100,TRUE,83,Male
-DCR00095_U,ALZ_Urine_Rack01_RCM_221214/760,Assay,Study Sample,100,TRUE,83,Female
-PRGA0036_U,ALZ_Urine_Rack01_RCM_221214/770,Assay,Study Sample,100,TRUE,73,Male
-THSA0019_U,ALZ_Urine_Rack01_RCM_221214/780,Assay,Study Sample,100,TRUE,84,Female
-THSM0060_U,ALZ_Urine_Rack01_RCM_221214/790,Assay,Study Sample,100,TRUE,71,Female
-DCR00161_U,ALZ_Urine_Rack01_RCM_221214/800,Assay,Study Sample,100,TRUE,87,Female
-KPOC0016_U,ALZ_Urine_Rack01_RCM_221214/810,Assay,Study Sample,100,TRUE,77,Male
-DCR00520_U,ALZ_Urine_Rack01_RCM_221214/820,Assay,Study Sample,100,TRUE,82,Male
-LDZA0043_U,ALZ_Urine_Rack01_RCM_221214/830,Assay,Study Sample,100,TRUE,75,Male
-KPOM0051_U,ALZ_Urine_Rack01_RCM_221214/840,Assay,Study Sample,100,TRUE,70,Female
-Long-Term Reference 03,ALZ_Urine_Rack01_RCM_221214/860,Precision Reference,External Reference,100,TRUE,,
-Study Reference 03,ALZ_Urine_Rack01_RCM_221214/870,Precision Reference,Study Pool,100,TRUE,,
-Long-Term Reference 04,ALZ_Urine_Rack01_RCM_221214/880,Precision Reference,External Reference,100,TRUE,,
-Study Reference 04,ALZ_Urine_Rack01_RCM_221214/890,Precision Reference,Study Pool,100,TRUE,,
-Long-Term Reference 05,ALZ_Urine_Rack01_RCM_221214/900,Precision Reference,External Reference,100,TRUE,,
-Study Reference 05,ALZ_Urine_Rack01_RCM_221214/910,Precision Reference,Study Pool,100,TRUE,,
-Long-Term Reference 06,ALZ_Urine_Rack01_RCM_221214/920,Precision Reference,External Reference,100,TRUE,,
-Study Reference 06,ALZ_Urine_Rack01_RCM_221214/930,Precision Reference,Study Pool,100,TRUE,,
-Long-Term Reference 07,ALZ_Urine_Rack01_RCM_221214/940,Precision Reference,External Reference,100,TRUE,,
-Study Reference 07,ALZ_Urine_Rack01_RCM_221214/950,Precision Reference,Study Pool,100,TRUE,,
+Sample ID,Sample File Name,AssayRole,SampleType,SampleClass,Biofluid,Dilution,Include Sample,Age,Gender
+LND.0063_U,ALZ_Urine_Rack01_RCM_221214/10,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Female
+DCR00076_U,ALZ_Urine_Rack01_RCM_221214/20,Assay,Study Sample,Study Sample,Urine,100,TRUE,74,Male
+KPOA0004_U,ALZ_Urine_Rack01_RCM_221214/30,Assay,Study Sample,Study Sample,Urine,100,TRUE,67,Female
+KPOC0007_U,ALZ_Urine_Rack01_RCM_221214/40,Assay,Study Sample,Study Sample,Urine,100,TRUE,79,Female
+DCR00265_U,ALZ_Urine_Rack01_RCM_221214/50,Assay,Study Sample,Study Sample,Urine,100,TRUE,88,Female
+KPOA0049_U,ALZ_Urine_Rack01_RCM_221214/60,Assay,Study Sample,Study Sample,Urine,100,TRUE,85,Male
+PRGM0027_U,ALZ_Urine_Rack01_RCM_221214/70,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Female
+KPOA0011_U,ALZ_Urine_Rack01_RCM_221214/80,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Male
+PRGM0042_U,ALZ_Urine_Rack01_RCM_221214/90,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Male
+LDZM0019_U,ALZ_Urine_Rack01_RCM_221214/100,Assay,Study Sample,Study Sample,Urine,100,TRUE,69,Female
+KPOA0034_U,ALZ_Urine_Rack01_RCM_221214/110,Assay,Study Sample,Study Sample,Urine,100,TRUE,79,Male
+DCR00157_U,ALZ_Urine_Rack01_RCM_221214/120,Assay,Study Sample,Study Sample,Urine,100,TRUE,86,Male
+OA0479_U,ALZ_Urine_Rack01_RCM_221214/130,Assay,Study Sample,Study Sample,Urine,100,TRUE,86,Female
+PRGC0045_U,ALZ_Urine_Rack01_RCM_221214/140,Assay,Study Sample,Study Sample,Urine,100,TRUE,69,Male
+THSA0017_U,ALZ_Urine_Rack01_RCM_221214/150,Assay,Study Sample,Study Sample,Urine,100,TRUE,67,Male
+DCR00220_U,ALZ_Urine_Rack01_RCM_221214/160,Assay,Study Sample,Study Sample,Urine,100,TRUE,84,Male
+PRGA0005_U,ALZ_Urine_Rack01_RCM_221214/170,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Male
+PRGC0024_U,ALZ_Urine_Rack01_RCM_221214/180,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Male
+PRGM0005_U,ALZ_Urine_Rack01_RCM_221214/190,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Female
+THSA0013_U,ALZ_Urine_Rack01_RCM_221214/200,Assay,Study Sample,Study Sample,Urine,100,TRUE,78,Male
+LND.0099_U,ALZ_Urine_Rack01_RCM_221214/210,Assay,Study Sample,Study Sample,Urine,100,TRUE,75,Female
+DCR00051_U,ALZ_Urine_Rack01_RCM_221214/220,Assay,Study Sample,Study Sample,Urine,100,TRUE,70,Female
+THSM0058_U,ALZ_Urine_Rack01_RCM_221214/230,Assay,Study Sample,Study Sample,Urine,100,TRUE,70,Male
+PRGM0026_U,ALZ_Urine_Rack01_RCM_221214/240,Assay,Study Sample,Study Sample,Urine,100,TRUE,80,Male
+KPOM0041_U,ALZ_Urine_Rack01_RCM_221214/250,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Male
+THSM0028_U,ALZ_Urine_Rack01_RCM_221214/260,Assay,Study Sample,Study Sample,Urine,100,TRUE,69,Female
+LND.0130_U,ALZ_Urine_Rack01_RCM_221214/270,Assay,Study Sample,Study Sample,Urine,100,TRUE,74,Male
+LDZA0014_U,ALZ_Urine_Rack01_RCM_221214/280,Assay,Study Sample,Study Sample,Urine,100,TRUE,71,Female
+PRGA0019_U,ALZ_Urine_Rack01_RCM_221214/290,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Female
+THSA0010_U,ALZ_Urine_Rack01_RCM_221214/300,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Male
+Long-Term Reference 01,ALZ_Urine_Rack01_RCM_221214/310,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 01,ALZ_Urine_Rack01_RCM_221214/320,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+TLSA0506_U,ALZ_Urine_Rack01_RCM_221214/330,Assay,Study Sample,Study Sample,Urine,100,TRUE,80,Male
+KPOA0027_U,ALZ_Urine_Rack01_RCM_221214/340,Assay,Study Sample,Study Sample,Urine,100,TRUE,74,Male
+TLSC0719_U,ALZ_Urine_Rack01_RCM_221214/350,Assay,Study Sample,Study Sample,Urine,100,TRUE,72,Male
+DCR00013_U,ALZ_Urine_Rack01_RCM_221214/360,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Male
+DCR00254_U,ALZ_Urine_Rack01_RCM_221214/370,Assay,Study Sample,Study Sample,Urine,100,TRUE,75,Female
+KPOA0018_U,ALZ_Urine_Rack01_RCM_221214/380,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Female
+DCR00211_U,ALZ_Urine_Rack01_RCM_221214/390,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Female
+KPOA0032_U,ALZ_Urine_Rack01_RCM_221214/400,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Female
+LND.0129_U,ALZ_Urine_Rack01_RCM_221214/410,Assay,Study Sample,Study Sample,Urine,100,TRUE,78,Female
+THSM0013_U,ALZ_Urine_Rack01_RCM_221214/420,Assay,Study Sample,Study Sample,Urine,100,TRUE,80,Female
+DCR00055_U,ALZ_Urine_Rack01_RCM_221214/430,Assay,Study Sample,Study Sample,Urine,100,TRUE,81,Female
+DCR00341_U,ALZ_Urine_Rack01_RCM_221214/440,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Female
+THSA0048_U,ALZ_Urine_Rack01_RCM_221214/450,Assay,Study Sample,Study Sample,Urine,100,TRUE,71,Male
+LND.0037_U,ALZ_Urine_Rack01_RCM_221214/460,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Male
+DCR00288_U,ALZ_Urine_Rack01_RCM_221214/470,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Male
+LND.0142_U,ALZ_Urine_Rack01_RCM_221214/480,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Female
+KPOM0003_U,ALZ_Urine_Rack01_RCM_221214/490,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Female
+LND.0092_U,ALZ_Urine_Rack01_RCM_221214/500,Assay,Study Sample,Study Sample,Urine,100,TRUE,79,Female
+DCR00162_U,ALZ_Urine_Rack01_RCM_221214/510,Assay,Study Sample,Study Sample,Urine,100,TRUE,72,Male
+LND.0034_U,ALZ_Urine_Rack01_RCM_221214/520,Assay,Study Sample,Study Sample,Urine,100,TRUE,68,Female
+PRGC0053_U,ALZ_Urine_Rack01_RCM_221214/530,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Female
+DCR00223_U,ALZ_Urine_Rack01_RCM_221214/540,Assay,Study Sample,Study Sample,Urine,100,TRUE,84,Female
+KPOM0031_U,ALZ_Urine_Rack01_RCM_221214/550,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Female
+THSA0045_U,ALZ_Urine_Rack01_RCM_221214/560,Assay,Study Sample,Study Sample,Urine,100,TRUE,78,Female
+PRGC0032_U,ALZ_Urine_Rack01_RCM_221214/570,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Male
+KPOC0014_U,ALZ_Urine_Rack01_RCM_221214/580,Assay,Study Sample,Study Sample,Urine,100,TRUE,74,Female
+DCR00087_U,ALZ_Urine_Rack01_RCM_221214/590,Assay,Study Sample,Study Sample,Urine,100,TRUE,76,Male
+LDZA0021_U,ALZ_Urine_Rack01_RCM_221214/600,Assay,Study Sample,Study Sample,Urine,100,TRUE,78,Female
+THSM0004_U,ALZ_Urine_Rack01_RCM_221214/610,Assay,Study Sample,Study Sample,Urine,100,TRUE,75,Female
+DCR00117_U,ALZ_Urine_Rack01_RCM_221214/620,Assay,Study Sample,Study Sample,Urine,100,TRUE,81,Male
+DCR00071_U,ALZ_Urine_Rack01_RCM_221214/630,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Male
+PRGA0034_U,ALZ_Urine_Rack01_RCM_221214/640,Assay,Study Sample,Study Sample,Urine,100,TRUE,80,Male
+THSA0054_U,ALZ_Urine_Rack01_RCM_221214/650,Assay,Study Sample,Study Sample,Urine,100,TRUE,66,Male
+KPOM0026_U,ALZ_Urine_Rack01_RCM_221214/660,Assay,Study Sample,Study Sample,Urine,100,TRUE,80,Female
+DCR00069_U,ALZ_Urine_Rack01_RCM_221214/670,Assay,Study Sample,Study Sample,Urine,100,TRUE,79,Male
+KPOA0037_U,ALZ_Urine_Rack01_RCM_221214/680,Assay,Study Sample,Study Sample,Urine,100,TRUE,79,Male
+THSA0049_U,ALZ_Urine_Rack01_RCM_221214/690,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Male
+PRGM0010_U,ALZ_Urine_Rack01_RCM_221214/700,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Male
+LND.0143_U,ALZ_Urine_Rack01_RCM_221214/710,Assay,Study Sample,Study Sample,Urine,100,TRUE,74,Male
+KPOM0040_U,ALZ_Urine_Rack01_RCM_221214/720,Assay,Study Sample,Study Sample,Urine,100,TRUE,81,Female
+Long-Term Reference 02,ALZ_Urine_Rack01_RCM_221214/730,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 02,ALZ_Urine_Rack01_RCM_221214/740,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+LDZA0022_U,ALZ_Urine_Rack01_RCM_221214/750,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Male
+DCR00095_U,ALZ_Urine_Rack01_RCM_221214/760,Assay,Study Sample,Study Sample,Urine,100,TRUE,83,Female
+PRGA0036_U,ALZ_Urine_Rack01_RCM_221214/770,Assay,Study Sample,Study Sample,Urine,100,TRUE,73,Male
+THSA0019_U,ALZ_Urine_Rack01_RCM_221214/780,Assay,Study Sample,Study Sample,Urine,100,TRUE,84,Female
+THSM0060_U,ALZ_Urine_Rack01_RCM_221214/790,Assay,Study Sample,Study Sample,Urine,100,TRUE,71,Female
+DCR00161_U,ALZ_Urine_Rack01_RCM_221214/800,Assay,Study Sample,Study Sample,Urine,100,TRUE,87,Female
+KPOC0016_U,ALZ_Urine_Rack01_RCM_221214/810,Assay,Study Sample,Study Sample,Urine,100,TRUE,77,Male
+DCR00520_U,ALZ_Urine_Rack01_RCM_221214/820,Assay,Study Sample,Study Sample,Urine,100,TRUE,82,Male
+LDZA0043_U,ALZ_Urine_Rack01_RCM_221214/830,Assay,Study Sample,Study Sample,Urine,100,TRUE,75,Male
+KPOM0051_U,ALZ_Urine_Rack01_RCM_221214/840,Assay,Study Sample,Study Sample,Urine,100,TRUE,70,Female
+Long-Term Reference 03,ALZ_Urine_Rack01_RCM_221214/860,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 03,ALZ_Urine_Rack01_RCM_221214/870,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+Long-Term Reference 04,ALZ_Urine_Rack01_RCM_221214/880,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 04,ALZ_Urine_Rack01_RCM_221214/890,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+Long-Term Reference 05,ALZ_Urine_Rack01_RCM_221214/900,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 05,ALZ_Urine_Rack01_RCM_221214/910,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+Long-Term Reference 06,ALZ_Urine_Rack01_RCM_221214/920,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 06,ALZ_Urine_Rack01_RCM_221214/930,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
+Long-Term Reference 07,ALZ_Urine_Rack01_RCM_221214/940,Precision Reference,External Reference,Long-Term Reference,Urine,100,TRUE,,
+Study Reference 07,ALZ_Urine_Rack01_RCM_221214/950,Precision Reference,Study Pool,Study Reference,Urine,100,TRUE,,
